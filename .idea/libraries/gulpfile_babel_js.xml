@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="gulpfile.babel.js" type="javaScript">
+    <properties>
+      <sourceFilesUrls>
+        <item url="file://F:/php library/material-theme/gulpfile.babel.js" />
+        <item url="file://F:/php library/material-theme" />
+      </sourceFilesUrls>
+    </properties>
+    <CLASSES>
+      <root url="file://F:/php library/material-theme/gulpfile.babel.js" />
+      <root url="file://F:/php library/material-theme" />
+    </CLASSES>
+    <SOURCES />
+  </library>
+</component>

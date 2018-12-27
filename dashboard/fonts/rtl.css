@@ -1,0 +1,10 @@
+@font-face {
+    font-family: 'yekan';
+    src: url('dified.eot');
+    src: url('dified.eot#iefix') format('embedded-opentype'),
+         url('dified.woff') format('woff'),
+         url('dified.ttf') format('truetype'),
+         url('dified.svg#CartoGothicStdBook') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
